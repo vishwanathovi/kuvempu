@@ -1,0 +1,35 @@
+body{
+	margin-top: 5%;
+	/*font-family: "Aller";*/
+}
+
+.main{
+	background-color: #efefef;
+}
+
+.main-image{
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.sections{
+	padding: 0px 40px 0px 40px;
+}
+
+.big-line-spacing {
+    line-height: 200%;
+}
+
+.footer{
+	font-size: 200%;
+	margin-top: 30px;
+}
+
+/* TODO
+1. Add all the content
+2. Improve the header font and the tagline
+3. Add a good footer
+4. Think of more improvements of the site
+ */
